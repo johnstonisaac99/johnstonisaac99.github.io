@@ -555,9 +555,15 @@ footer {
     
 }
 
+.button {
+    border: none;
+    border-radius: 10px;
+    padding: 5px;
+}
+
 .project-info {
     width: 50%;
-    padding: 15px
+    padding: 15px;
 }
 
 .project-info h3 {
